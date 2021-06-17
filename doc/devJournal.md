@@ -6,8 +6,10 @@
 ## 1주차
 - Webpage Sketch
 
-![sketch1](https://github.com/zionhann/KoreanAgeCalculator/blob/master/screenshots/sketch1.jpg)
+<img src="https://github.com/zionhann/KoreanAgeCalculator/blob/master/screenshots/sketch1.jpg" width="500px" height="375px">
 
-![sketch2](https://github.com/zionhann/KoreanAgeCalculator/blob/master/screenshots/sketch2.jpg)
+<img src="https://github.com/zionhann/KoreanAgeCalculator/blob/master/screenshots/sketch2.jpg" width="500px" height="375px">
 
 - Create `index.html`, `style.css`
+
+<img src="https://github.com/zionhann/KoreanAgeCalculator/blob/master/screenshots/front1.jpg" width="500px" height="234px">
