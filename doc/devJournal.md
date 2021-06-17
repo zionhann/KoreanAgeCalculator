@@ -12,4 +12,4 @@
 
 - Create `index.html`, `style.css`
 
-<img src="https://github.com/zionhann/KoreanAgeCalculator/blob/master/screenshots/front1.jpg" width="500px" height="234px">
+<img src="https://github.com/zionhann/KoreanAgeCalculator/blob/master/screenshots/front1.png" width="500px" height="234px">
