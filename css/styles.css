@@ -1,22 +1,48 @@
-.header{
+body{
+    background-color: #d2ebee;
+}
+header{
     width: auto;
     text-align: center;
     padding: 50px;
-    border: 1px solid black;
     color: black;
-    background-color: white;
+}
+footer{
+    width: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 40px;
+    color:black;
 }
 .birth{
     width: auto;
     text-align: center;
-    padding: 50px;
-    background-color: powderblue;
+    padding: 100px;
 }
-.footer{
-    width: auto;
-    margin-bottom: 10px;
-    padding: 40px;
-    color:black;
-    background-color: white;
-    text-align: center;
+fieldset{
+    border: none;
+}
+input[type=text]{
+    font-size: 2em;
+    line-height: 3em;
+    background-color: #d2ebee;
+}
+.no_outline{
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: solid;
+}
+input[type=text]:focus{
+    outline: none;
+}
+/* Reference: https://app.banksalad.com/?utm_source=BS_WEB&utm_medium=BS_WEB_GNB&utm_campaign=170421_APP_certification_page */
+.button{
+    margin-left: 50px;
+    width: 250px;
+    height: 80px;
+    border-radius: 4px;
+    line-height: 0.85;
+    font-size: 30px;
+    background-color: #ecc0c0;
 }
