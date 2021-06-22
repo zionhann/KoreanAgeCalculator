@@ -1,18 +1,21 @@
 body{
-    background-color: #d2ebee;
+    background-color: #65adff;
 }
 header{
     width: auto;
     text-align: center;
-    padding: 50px;
-    color: black;
+    padding: 20px;
+    color: white;
+    font-size: 25px;
+    
 }
 footer{
     width: auto;
     text-align: center;
     margin-bottom: 10px;
-    padding: 40px;
-    color:black;
+    padding: 30px;
+    color:white;
+    font-size: 20px;
 }
 .birth{
     width: auto;
@@ -25,7 +28,7 @@ fieldset{
 input[type=text]{
     font-size: 2em;
     line-height: 3em;
-    background-color: #d2ebee;
+    background-color: white;
 }
 .no_outline{
     border-top-style: none;
@@ -42,7 +45,9 @@ input[type=text]:focus{
     width: 250px;
     height: 80px;
     border-radius: 4px;
+    border: 3px solid white;
     line-height: 0.85;
     font-size: 30px;
-    background-color: #ecc0c0;
+    background-color: #65adff;
+    color: white;
 }
